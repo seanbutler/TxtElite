@@ -1,0 +1,74 @@
+Buy Food 20
+Fuel 7
+Jump Zaonce
+Sell Food 20
+Buy Computers 11
+Fuel 7
+Jump Lave
+Sell Computers 11
+Buy Food 20
+Fuel 7
+Jump Zaonce
+Sell Food 20
+Buy Computers 13
+Fuel 7
+Jump Lave
+Sell Computers 13
+Buy Food 20
+Fuel 7
+Jump Zaonce
+Sell Food 20
+Buy Computers 15
+Fuel 7
+Jump Lave
+Sell Computers 15
+Buy Food 20
+Fuel 7
+Jump Zaonce
+Sell Food 20
+Buy Computers 17
+Fuel 7
+Jump Lave
+Sell Computers 17
+Buy Food 20
+Fuel 7
+Jump Zaonce
+Sell Food 20
+Buy Computers 19
+Fuel 7
+Jump Lave
+Sell Computers 19
+Buy Food 20
+Fuel 7
+Jump Zaonce
+Sell Food 20
+Buy Computers 20
+Fuel 7
+Jump Lave
+Sell Computers 20
+Buy Food 20
+Fuel 7
+Jump Zaonce
+Sell Food 20
+Buy Computers 20
+Fuel 7
+Jump Lave
+Sell Computers 20
+Buy Food 20
+Fuel 7
+Jump Zaonce
+Sell Food 20
+Buy Computers 20
+Fuel 7
+Jump Lave
+Sell Computers 20
+Buy Food 20
+Fuel 7
+Jump Zaonce
+Sell Food 20
+Buy Computers 20
+Fuel 7
+Jump Lave
+Sell Computers 20
+Mkt
+Quit

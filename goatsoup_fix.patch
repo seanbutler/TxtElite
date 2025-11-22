@@ -1,0 +1,23 @@
+--- TXTELITE.C.orig	2025-11-22 00:00:00.000000000 +0000
++++ TXTELITE.C	2025-11-22 00:00:00.000000000 +0000
+@@ -27,9 +27,9 @@
+ #include <string.h>
+ #include <time.h>
+ 
+-#include <conio.h>
+-#include <graph.h>
++/* #include <conio.h> */
++/* #include <graph.h> */
+ #include <math.h>
+-#include <malloc.h>
++/* #include <malloc.h> */
+ 
+ #define true (-1)
+@@ -903,7 +903,7 @@
+ void goat_soup(const char *source,plansys * psy)
+ {	for(;;)
+-	{	int c=*(source++);
++	{	int c=(unsigned char)(*(source++));
+ 		if(c=='\0')	break;
+ 		if(c<0x80) printf("%c",c);
+ 		else
